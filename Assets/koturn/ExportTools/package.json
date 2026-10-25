@@ -1,0 +1,19 @@
+{
+  "name": "com.koturn.exporttools",
+  "version": "1.0.0",
+  "displayName": "ExportTools",
+  "description": "An export tool for generating .unitypackage and ZIP files for UPM.",
+  "unity": "2019.4",
+  "licensesUrl": "https://github.com/koturn/UnityExportTools/blob/master/LICENSE",
+  "license": "MIT",
+  "keywords": [
+    "Editor",
+    "unitypackage",
+    "UPM"
+  ],
+  "author": {
+    "name": "koturn",
+    "url": "https://github.com/koturn"
+  },
+  "url" : "https://github.com/koturn/UnityExportTools/releases/download/1.0.0/com.koturn.exporttools-1.0.0.zip?"
+}
