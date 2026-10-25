@@ -1,0 +1,14 @@
+{
+  "packages": [
+    {
+      "versionFrom": "90fb64cd8305ad449a1a60129f3d496f",
+      "unityPackageBaseName": "ExportTools",
+      "packageName": "com.koturn.exporttools",
+      "assets": [
+        {
+          "basePath": "Assets/koturn/ExportTools"
+        }
+      ]
+    }
+  ]
+}
